@@ -1,0 +1,5 @@
+export enum APIActions {
+  SET_LOADING = 'SET_LOADING',
+  SET_SUCCESS = 'SET_SUCCESS',
+  SET_ERROR = 'SET_ERROR',
+}

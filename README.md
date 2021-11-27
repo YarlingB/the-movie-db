@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+#Dependencies
+Setting up Tailwind CSS: 
+Tailwind CSS requires Node.js 12.13.0 or higher.
+
+
 ## Getting Started
 
 First, run the development server:
